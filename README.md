@@ -11,4 +11,4 @@ This is an PyTorch Implementation and Experimentation of Recommendation System b
 
     Surolia, A. (2022) “Recommendation System based on Artist and Music Embeddings”,
     GLS KALP – Journal of Multidisciplinary Studies, 2(3), pp. 8–15.
-    Available at: https://glskalp.in/index.php/glskalp/article/view/33 (Accessed: 7 August 2022).
+    Available at: https://glskalp.in/index.php/glskalp/article/view/33.
