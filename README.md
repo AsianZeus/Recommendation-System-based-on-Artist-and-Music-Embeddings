@@ -1,6 +1,6 @@
 # Recommendation-System-based-on-Artist-and-Music-Embeddings
 
-This is an PyTocrh Implementation and Rxperimentation of Recommendation System based on Artist and Music Embeddings by Akshat Surolia.
+This is an PyTorch Implementation and Experimentation of Recommendation System based on Artist and Music Embeddings by Akshat Surolia.
 
 ---
 ## Abstract
